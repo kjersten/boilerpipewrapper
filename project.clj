@@ -1,4 +1,4 @@
-(defproject boilerpipewrapper "0.1.0-SNAPSHOT"
+(defproject boilerpipewrapper "0.2.0-SNAPSHOT"
   :description "a CLI wrapper for the Java Boilerpipe library"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
